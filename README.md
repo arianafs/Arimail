@@ -24,24 +24,18 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/mao2116/mmail
-
+github.com/arianafs/Arimail
 ```
 
 ### One Click Installation :
 
 ```
-apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/mao2116/mmail
-
-```
-
-
-<br><a href="#"><img src="https://raw.githubusercontent.com/mao2116/test/main/BLOG/PIC/IMG_20220101_130140.jpg"></a><br>
+apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/arianafs/Arimail/><a href="#"><img src="https://raw.githubusercontent.com/mao2116/test/main/BLOG/PIC/IMG_20220101_130140.jpg"></a><br>
 
 ### FOR RUN :
 
 ```
-cd mmail
+cd Arimail
 
 python mmail.py
 
