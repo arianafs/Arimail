@@ -1,0 +1,2 @@
+# Arimail
+Script termux
